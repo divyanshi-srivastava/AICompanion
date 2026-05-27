@@ -12,7 +12,7 @@ An AI-powered companion chatbot with voice synthesis and animated character, bui
 ## Prerequisites
 
 - Python 3.11+
-- A [Gemini API Key](https://aistudio.google.com/apikey)
+- A Gemini API Key
 
 ## Quick Start
 
